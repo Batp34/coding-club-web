@@ -193,6 +193,9 @@ Et voici une pelleté de site pour vous aider à créer votre site ou bien pour 
 
 Pour les plus courageux vous pouvez faire ce qu'on appelle des call API. C'est à dire que vous pouvez faire des requêtes à des API pour récupérer des données et les afficher sur votre site. Vous pouvez donc intégrez des données de météo, images, gifs, etc. sur votre site.
 
+Une API est une interface de programmation qui permet de récupérer des données. Elle est généralement gratuite et vous pouvez l'utiliser pour faire des requêtes à partir de votre site. Une API marche grâce à des URL et à des paramètres. Il existe plusieurs types de requètes (GET, POST, PUT, DELETE, etc.)
+vous pouvez voir dans le dossier `code/` des exemples de requêtes à des API.
+
 Voici quelques api pour vous aider :
 - [OpenWeatherMap](https://openweathermap.org/api)
 - [Giphy](https://developers.giphy.com/docs/api#quick-start-guide)
