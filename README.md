@@ -199,7 +199,7 @@ vous pouvez voir dans le dossier `code/` des exemples de requêtes à des API.
 Voici quelques api pour vous aider :
 - [OpenWeatherMap](https://openweathermap.org/api)
 - [Giphy](https://developers.giphy.com/docs/api#quick-start-guide)
-- [Unsplash](https://unsplash.com/developers)
+- [Picsum](https://picsum.photos/)
 - [The Movie Database](https://developers.themoviedb.org/3/getting-started/introduction)
 - [The Cat API](https://thecatapi.com/)
 - [The Dog API](https://thedogapi.com/)

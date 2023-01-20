@@ -23,3 +23,7 @@ function random_dog_api(callback) {
 function get_current_weather(lat, lon, callback) {
     make_request(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=811047b194123d4a5ab580a437b933aa`, callback)
 }
+
+function get_random_photo(callback) {
+    make_request("https://picsum.photos/200/300", callback)
+}
