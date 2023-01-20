@@ -1,8 +1,15 @@
-# INTRODUCTION
+# INTRODUCTION <a name="introduction"></a>
 
 Bonjour à toi, jeune développeur ! Aujourd'hui, tu vas découvrir comment faire un site web classique. La finalité sera de pouvoir mettre votre site en public grâce à un hébergeur. Nous allons donc voir comment avec github, vous pouvez héberger votre site gratuitement (et bien plus).
 
-# PRÉ-REQUIS
+# TABLE DES MATIÈRES <a name="table-des-matières"></a>
+
+- [INTRODUCTION](#introduction)
+- [TABLE DES MATIÈRES](#table-des-matières)
+- [PRÉ-REQUIS](#pré-requis)
+- [FONCTIONNEMENT D'UN SITE WEB](#fonctionnement-dun-site-web)
+
+# PRÉ-REQUIS <a name="pré-requis"></a>
 
 - Un compte github
     - Si vous n'en avez pas, rendez-vous sur [github.com](github.com) et créez-en un.
@@ -44,3 +51,53 @@ Voici un exemple de code HTML :
 Grâce à github-desktop, vous pouvez voir les changements que vous avez fait. Cliquez sur "Commit to master" et écrivez un message de commit. Cliquez ensuite sur "Commit to master" et "Push origin".
 
 Et maintenant, vous pouvez voir votre site en allant sur "votre_nom_de_compte.github.io" !
+
+# FONCTIONNEMENT D'UN SITE WEB <a name="fonctionnement-dun-site-web"></a>
+
+Un site web est composé de 3 parties :
+- Le HTML
+- Le CSS
+- Le JavaScript
+
+## HTML
+
+Le HTML est le langage qui permet de créer la structure de votre site. C'est grâce à lui que vous pouvez créer des paragraphes, des titres, des images, etc. Pour imager, le HTML est le squelette de votre site.
+Si vous voulez en savoir plus sur le HTML, je vous conseille de lire [ce tutoriel](https://www.w3schools.com/html/).
+
+Ou alors voici quelques exemples de balises HTML :
+
+### Titre basique avec un paragraphe
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mon premier site</title>
+    </head>
+    <body>
+        <h1>Bonjour à tous !</h1>
+        <p>Je suis un paragraphe</p>
+    </body>
+</html>
+```
+
+### Mettre un lien
+```html
+<a href="https://www.google.com">Cliquez ici pour aller sur google</a>
+```
+
+### Mettre une image
+```html
+<img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Logo de google">
+```
+
+### Mettre une liste
+```html
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+```
+
+Il y a beaucoup d'autres balises HTML, mais je vous laisse découvrir par vous-même.
+
