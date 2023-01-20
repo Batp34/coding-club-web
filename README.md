@@ -9,6 +9,7 @@ Bonjour à toi, jeune développeur ! Aujourd'hui, tu vas découvrir comment fair
 - [PRÉ-REQUIS](#pré-requis)
 - [FONCTIONNEMENT D'UN SITE WEB](#fonctionnement-dun-site-web)
 - [CRÉER UN SITE WEB](#créer-un-site-web)
+- [POUR LES PLUS COURAGEUX](#pour-les-plus-courageux)
 
 # PRÉ-REQUIS <a name="pré-requis"></a>
 
@@ -187,3 +188,21 @@ Et voici une pelleté de site pour vous aider à créer votre site ou bien pour 
 - [MDN Web Docs](https://developer.mozilla.org/fr/)
 - [StackOverflow](https://stackoverflow.com/)
 - [CSS Tricks](https://css-tricks.com/)
+
+# POUR LES PLUS COURAGEUX <a name="pour-les-plus-courageux"></a>
+
+Pour les plus courageux vous pouvez faire ce qu'on appelle des call API. C'est à dire que vous pouvez faire des requêtes à des API pour récupérer des données et les afficher sur votre site. Vous pouvez donc intégrez des données de météo, images, gifs, etc. sur votre site.
+
+Voici quelques api pour vous aider :
+- [OpenWeatherMap](https://openweathermap.org/api)
+- [Giphy](https://developers.giphy.com/docs/api#quick-start-guide)
+- [Unsplash](https://unsplash.com/developers)
+- [The Movie Database](https://developers.themoviedb.org/3/getting-started/introduction)
+- [The Cat API](https://thecatapi.com/)
+- [The Dog API](https://thedogapi.com/)
+- [The Chuck Norris Database](https://api.chucknorris.io/)
+- [The Rick and Morty API](https://rickandmortyapi.com/)
+- [The Star Wars API](https://swapi.dev/)
+- [The Breaking Bad API](https://breakingbadapi.com/)
+- [The Breaking Bad API](https://breakingbadapi.com/)
+et plein d'autres encore...
