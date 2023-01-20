@@ -101,3 +101,55 @@ Ou alors voici quelques exemples de balises HTML :
 
 Il y a beaucoup d'autres balises HTML, mais je vous laisse découvrir par vous-même.
 
+## CSS
+
+Le CSS est le langage qui permet de mettre du style à votre site. C'est grâce à lui que vous pouvez changer la couleur de votre texte, la taille de votre texte, etc. Pour imager, le CSS est la peau de votre site.
+Les fichiers css sont généralement nommés "style.css" et sont stockés dans un dossier nommé "css".
+
+pour l'inclure dans une page HTML, vous devez ajouter cette ligne dans la balise `<head>` :
+
+```html
+<link rel="stylesheet" href="css/style.css">
+```
+href contient le chemin vers le fichier css.
+
+Si vous voulez en savoir plus sur le CSS, je vous conseille de lire [ce tutoriel](https://www.w3schools.com/css/).
+Ou alors voici quelques jeu online pour apprendre le CSS :
+
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Grid Garden](https://cssgridgarden.com/)
+- [CSS Diner](https://flukeout.github.io/)
+- [CSS Battle](https://cssbattle.dev/)
+
+C'est pas vraiment ce qu'il manque comme jeu pour apprendre le CSS.
+Voici quelques exemples de code CSS :
+
+### Changer la couleur du texte
+```css
+h1 {
+    color: red;
+}
+```
+
+### Changer la taille du texte
+```css
+h1 {
+    font-size: 50px;
+}
+```
+
+### Changer la couleur de fond
+```css
+body {
+    background-color: black;
+}
+```
+
+### Changer la taille d'une image
+```css
+img {
+    width: 100px;
+}
+```
+
+Et plein d'autres choses encore.
