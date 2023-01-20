@@ -153,3 +153,18 @@ img {
 ```
 
 Et plein d'autres choses encore.
+
+## JavaScript
+
+Le JavaScript est le langage qui permet de rendre votre site dynamique. C'est grâce à lui que vous pouvez faire des animations, des formulaires, etc. Pour imager, le JavaScript est le cerveau de votre site.
+Les fichiers JavaScript sont généralement nommés "script.js" et sont stockés dans un dossier nommé "js".
+Le javascript est un langage très puissant, il vas vous permettre de faire intéragir votre site avec l'utilisateur, de faire des formulaires, de faire des animations, etc.
+
+Pour inclure du JavaScript dans une page HTML, vous devez ajouter cette ligne dans la balise `<head>` :
+
+```html
+<script src="js/script.js"></script>
+```
+src contient le chemin vers le fichier JavaScript.
+
+Si vous voulez en savoir plus sur le JavaScript, je vous conseille de lire [ce tutoriel](https://www.w3schools.com/js/).
