@@ -8,6 +8,7 @@ Bonjour à toi, jeune développeur ! Aujourd'hui, tu vas découvrir comment fair
 - [TABLE DES MATIÈRES](#table-des-matières)
 - [PRÉ-REQUIS](#pré-requis)
 - [FONCTIONNEMENT D'UN SITE WEB](#fonctionnement-dun-site-web)
+- [CRÉER UN SITE WEB](#créer-un-site-web)
 
 # PRÉ-REQUIS <a name="pré-requis"></a>
 
@@ -168,3 +169,21 @@ Pour inclure du JavaScript dans une page HTML, vous devez ajouter cette ligne da
 src contient le chemin vers le fichier JavaScript.
 
 Si vous voulez en savoir plus sur le JavaScript, je vous conseille de lire [ce tutoriel](https://www.w3schools.com/js/).
+
+# CRÉER UN SITE WEB <a name="créer-un-site-web"></a>
+
+Maintenant que vous savez comment fonctionne un site web, vous pouvez commencer à créer le vôtre. Trouvez un thème qui vous plait, une idée de site, etc. et lancez-vous !
+
+Voici quelques sites pour vous aider à créer votre site :
+- [Codepen](https://codepen.io/)
+- [CodeSandbox](https://codesandbox.io/)
+
+Si vous voulez trouvez des idées de site, vous pouvez aller sur [Dribbble](https://dribbble.com/).
+
+Si vous voulez trouver des thèmes pour votre site, vous pouvez aller sur [ThemeForest](https://themeforest.net/).
+
+Et voici une pelleté de site pour vous aider à créer votre site ou bien pour avoir des idées / code :
+- [W3Schools](https://www.w3schools.com/)
+- [MDN Web Docs](https://developer.mozilla.org/fr/)
+- [StackOverflow](https://stackoverflow.com/)
+- [CSS Tricks](https://css-tricks.com/)
